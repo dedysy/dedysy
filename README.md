@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Fajruri Ruri
 
-<!--
-**dedysy/dedysy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Enthusiast | Software Developer  
+📍 Indonesia  
+🚀 Passionate about building scalable and efficient systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on web & system development  
+- 🌱 Learning **Backend, Cloud, and System Design**  
+- 🧠 Interested in **problem solving & clean code**  
+- 🤝 Open to collaboration and freelance projects  
+
+---
+
+## 🛠 Tech Stack
+**Languages:**  
+- JavaScript | Python | PHP  
+
+**Framework & Tools:**  
+- Node.js | Express | Laravel  
+- Git | GitHub | Docker  
+- MySQL | PostgreSQL  
+
+**Other:**  
+- REST API  
+- Linux Server  
+- Basic DevOps  
+
+---
+
+## 📂 Featured Projects
+- 🔹 **Project Management System** – Web-based app for task tracking  
