@@ -29,5 +29,5 @@
 ---
 
 📫 **Contact Me**
-- Email: yourmail@email.com
-- LinkedIn: linkedin.com/in/yourname
+- Email: dedysyuhada12@gmail.com
+- LinkedIn: linkedin.com/in/dedys
