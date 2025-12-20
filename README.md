@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Fajruri Ruri
+# Hi there 👋, I'm Ded..
 
 💻 IT Enthusiast | Software Developer  
 📍 Indonesia  
