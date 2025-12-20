@@ -1,34 +1,33 @@
-# Hi there 👋, I'm Ded..
+<h1 align="center">Hi 👋, I'm Ded..</h1>
 
-💻 IT Enthusiast | Software Developer  
-📍 Indonesia  
-🚀 Passionate about building scalable and efficient systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=IT+Enthusiast;Backend+Developer;Problem+Solver;Always+Learning" />
+</p>
 
----
-
-## 👨‍💻 About Me
-- 🔭 Currently working on web & system development  
-- 🌱 Learning **Backend, Cloud, and System Design**  
-- 🧠 Interested in **problem solving & clean code**  
-- 🤝 Open to collaboration and freelance projects  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:**  
-- JavaScript | Python | PHP  
-
-**Framework & Tools:**  
-- Node.js | Express | Laravel  
-- Git | GitHub | Docker  
-- MySQL | PostgreSQL  
-
-**Other:**  
-- REST API  
-- Linux Server  
-- Basic DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,php,nodejs,laravel,mysql,docker,linux" />
+</p>
 
 ---
 
-## 📂 Featured Projects
-- 🔹 **Project Management System** – Web-based app for task tracking  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+📫 **Contact Me**
+- Email: yourmail@email.com
+- LinkedIn: linkedin.com/in/yourname
