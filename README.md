@@ -27,10 +27,8 @@
 </p>
 
 ---
-2️⃣ Copy–paste kode ini ke README.md
-<!-- Dragon Animation -->
 <p align="center">
-<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
   <style>
     .dragon {
       fill: none;
@@ -38,62 +36,67 @@
       stroke-width: 4;
       stroke-linecap: round;
       stroke-linejoin: round;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
-      animation: draw 5s ease-in-out infinite;
-      filter: drop-shadow(0 0 8px #ff3c00);
+      filter: drop-shadow(0 0 10px #ff3c00);
+      animation: fly 6s ease-in-out infinite;
     }
 
-    @keyframes draw {
-      0% {
-        stroke-dashoffset: 1000;
-      }
-      50% {
-        stroke-dashoffset: 0;
-      }
-      100% {
-        stroke-dashoffset: -1000;
-      }
+    .wing {
+      animation: flap 1.2s ease-in-out infinite;
+      transform-origin: center;
     }
 
     .fire {
-      animation: fireGlow 1s infinite alternate;
+      stroke: #ff9900;
+      animation: fire 0.8s infinite alternate;
     }
 
-    @keyframes fireGlow {
-      from {
-        stroke: #ff6a00;
-        filter: drop-shadow(0 0 5px #ff6a00);
-      }
-      to {
-        stroke: #ffd500;
-        filter: drop-shadow(0 0 15px #ffd500);
-      }
+    @keyframes fly {
+      0% { transform: translateX(-80px) translateY(0); }
+      50% { transform: translateX(40px) translateY(-15px); }
+      100% { transform: translateX(-80px) translateY(0); }
+    }
+
+    @keyframes flap {
+      0% { transform: rotate(0deg); }
+      50% { transform: rotate(10deg); }
+      100% { transform: rotate(0deg); }
+    }
+
+    @keyframes fire {
+      from { filter: drop-shadow(0 0 5px #ff9900); }
+      to { filter: drop-shadow(0 0 15px #ffd000); }
     }
   </style>
 
-  <!-- Dragon Body -->
-  <path class="dragon"
-    d="M50 120
-       C100 60, 200 60, 250 100
-       C300 140, 350 140, 400 100
-       C450 60, 520 80, 550 120" />
+  <!-- Dragon Group -->
+  <g class="dragon">
+    <!-- Body -->
+    <path d="M120 130
+             C180 70, 280 70, 340 110
+             C400 150, 460 150, 520 110" />
 
-  <!-- Dragon Head -->
-  <path class="dragon"
-    d="M50 120
-       C30 100, 30 80, 50 70
-       C70 60, 90 80, 80 100
-       C70 120, 60 130, 50 120" />
+    <!-- Head -->
+    <path d="M120 130
+             C95 110, 95 90, 120 80
+             C145 70, 165 90, 155 110
+             C145 130, 130 140, 120 130" />
 
-  <!-- Fire -->
-  <path class="dragon fire"
-    d="M30 95
-       C10 80, 5 70, 10 60
-       C20 40, 40 40, 35 60
-       C30 75, 40 85, 30 95" />
+    <!-- Wing -->
+    <path class="wing"
+          d="M260 105
+             C300 50, 360 50, 390 90
+             C340 85, 300 95, 260 105" />
+
+    <!-- Fire -->
+    <path class="fire"
+          d="M95 105
+             C70 90, 60 70, 70 55
+             C85 35, 105 40, 100 65
+             C95 85, 110 95, 95 105" />
+  </g>
 </svg>
 </p>
+
 
 📫 **Contact Me**
 - Email: dedysyuhada12@gmail.com
